@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me giridharans.22it@kongu.edu
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Techie
